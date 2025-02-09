@@ -4,7 +4,7 @@ seoDescription: "Engineer Tomasz Meyer shares his freelancing journey using writ
 datePublished: Sat Feb 08 2025 21:22:57 GMT+0000 (Coordinated Universal Time)
 cuid: cm6wpc4gu000d09l8e18j2ntk
 slug: a-new-rubber-duck
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739049895067/b2651980-638f-451b-a177-5caa03640cbe.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1739100657403/e4e1932a-a887-4869-a25d-95a4be03ab3a.webp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1739049820100/04b3bb7d-2ea7-432e-8c0c-839227d4b90e.jpeg
 tags: life
 
